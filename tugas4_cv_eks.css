@@ -1,0 +1,10 @@
+
+#video{
+    width: 26.4%; float: left; border: 3px solid black;
+}
+#attachment{
+    width: 20%; float: right; height: 100px;
+}
+#flower{
+    width: 33%; float: right;
+}
